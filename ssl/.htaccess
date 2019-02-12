@@ -1,0 +1,4 @@
+<FilesMatch "site.key">
+  Require all denied
+</Files>
+Options -Indexes
